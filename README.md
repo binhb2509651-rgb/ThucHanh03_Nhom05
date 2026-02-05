@@ -22,4 +22,10 @@ Công cụ sử dụng :
 Phần 1. Microsoft Excel
 - 1.1 Kiến thức cần chuẩn bị
 - 1.2 Nội dung thực hành
-+ 1.2.1 Nhập dữ liệu vào các Sheets
+  + 1.2.1 Nhập dữ liệu vào các Sheets
+  + 1.2.2 Thực hiện theo yêu cầu
+
+Phần 2. Google Sheet
+- 2.1 Kiến thưc cần chuẩn bị
+- 2.2 Nội dung thực hành
+  + 2.2.1 Bài thực hành số 2 - Google Spreadsheet
