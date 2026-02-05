@@ -20,8 +20,6 @@ Công cụ sử dụng :
 • Google Docs
 
 Phần 1. Microsoft Excel
-
 - 1.1 Kiến thức cần chuẩn bị
-
 - 1.2 Nội dung thực hành
-- 
++ 1.2.1 Nhập dữ liệu vào các Sheets
