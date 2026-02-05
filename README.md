@@ -21,4 +21,7 @@ Công cụ sử dụng :
 
 Phần 1. Microsoft Excel
 
-• 1.1 Kiến thức cần chuẩn bị
+- 1.1 Kiến thức cần chuẩn bị
+
+- 1.2 Nội dung thực hành
+- 
