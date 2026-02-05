@@ -38,7 +38,7 @@ Phần 2. Google Sheet
   + 2.2.1 Bài thực hành số 2 - Google Spreadsheet
       + 2.2.1.1 Nhập dữ liệu vào sheet
       + 2.2.1.2 Truy vấn dữ liệu
-        a. Mở Sheet mới đặt tên là "1.SV nganh CNTT"
-        b. Mở Sheet mới đặt tên là "2.SV lop_DI18T9A1 mon NT_CNTT"
-        c. Mở Sheet mới đặt tên là "3.SV_ Diem_D_F"
-        d. Mở Sheet mới đặt tên là "4.SV dang ky mon hoc 1 mon"
+        + a. Mở Sheet mới đặt tên là "1.SV nganh CNTT"
+        + b. Mở Sheet mới đặt tên là "2.SV lop_DI18T9A1 mon NT_CNTT"
+        + c. Mở Sheet mới đặt tên là "3.SV_ Diem_D_F"
+        + d. Mở Sheet mới đặt tên là "4.SV dang ky mon hoc 1 mon"
