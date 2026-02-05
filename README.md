@@ -20,4 +20,5 @@ Công cụ sử dụng :
 • Google Docs
 
 Phần 1. Microsoft Excel
-1.1 Kiến thức cần chuẩn bị
+
+• 1.1 Kiến thức cần chuẩn bị
