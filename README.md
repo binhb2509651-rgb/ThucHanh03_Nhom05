@@ -18,3 +18,6 @@ Công cụ sử dụng :
 • Microsoft Excel
 
 • Google Docs
+
+Phần 1. Microsoft Excel
+1.1 Kiến thức cần chuẩn bị
